@@ -42,6 +42,14 @@
   https://egghead.io/series/getting-started-with-redux <br>
   by <a href="https://twitter.com/dan_abramov">Dan Abramov</a> 
 
+## Typescript
+
+- Handbook <br>
+  http://www.typescriptlang.org/Handbook
+ 
+- REPL <br>
+  http://www.typescriptlang.org/Playground
+
 ## Webpack
 
 - Webpack Fundamentals (Pluralsight course) <br> 
