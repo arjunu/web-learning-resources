@@ -1,5 +1,17 @@
 # Web Learning Paths
 
+## Angular 2
+
+- 5 min quickstart (Official)
+  https://angular.io/docs/ts/latest/quickstart.html
+
+- Angular 2 Fundamentals (Egghead lesson)<br>
+  https://egghead.io/series/angular-2-fundamentals <br>
+  by <a href="https://twitter.com/johnlindquist">John Lindquist</a>
+
+- Tutorial: Tour of Heroes (Official)
+  https://angular.io/docs/ts/latest/tutorial/
+
 ## ES6
 
 - JS.Next: ES6 (Pluralsight course) <br>
