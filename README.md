@@ -54,6 +54,11 @@
   https://egghead.io/series/getting-started-with-redux <br>
   by <a href="https://twitter.com/dan_abramov">Dan Abramov</a> 
 
+## RxJS
+
+- RxJS In-Depth – Ben Lesh <br>
+  https://www.youtube.com/watch?v=KOOT7BArVHQ
+ 
 ## Typescript
 
 - Handbook <br>
