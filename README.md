@@ -14,7 +14,7 @@ Jump to
 
 #### State
 
-  <a href="#flux">Flux</a>
+  <a href="#flux">Flux</a> <br>
   <a href="#redux">Redux</a>
   
 #### Build tools
@@ -32,43 +32,41 @@ Jump to
   
 ## Angular 2
 
-- 5 min quickstart (Official)
+- 5 min quickstart (Official) <br>
   https://angular.io/docs/ts/latest/quickstart.html
 
-- Angular 2 Fundamentals (Egghead lesson)<br>
+- Angular 2 Fundamentals (Egghead lesson by <a href="https://twitter.com/johnlindquist">John Lindquist</a>)<br>
   https://egghead.io/series/angular-2-fundamentals <br>
-  by <a href="https://twitter.com/johnlindquist">John Lindquist</a>
 
-- Tutorial: Tour of Heroes (Official)
+- Tutorial: Tour of Heroes (Official) <br>
   https://angular.io/docs/ts/latest/tutorial/
 
 ## ES6
 
-- JS.Next: ES6 (Pluralsight course) <br>
+- JS.Next: ES6 (Pluralsight course by <a href="https://twitter.com/js_dev">Aaron Frost</a>) <br>
   http://www.pluralsight.com/courses/js-next-es6 <br>
-  by <a href="https://twitter.com/js_dev">Aaron Frost</a>
+  
 
-- ES6 Compatability Table <br>
+- ES6 Compatability Table (by <a href="https://twitter.com/kangax">@kangax</a>)<br>
   http://kangax.github.io/compat-table/es6/ <br>
-  by <a href="https://twitter.com/kangax">@kangax</a>
+  
 
 ## Flux
  
-- A cartoon guide to Flux (Medium article) <br>
+- A cartoon guide to Flux (Medium article, by <a href="https://twitter.com/linclark">Lin Clark</a> ) <br>
   https://code-cartoons.com/a-cartoon-guide-to-flux-6157355ab207 <br>
-  by <a href="https://twitter.com/linclark">Lin Clark</a> 
+  
 
 ## Gulp
 
-- JavaScript Build Automation With Gulp.js (Pluralsight course) <br>
+- JavaScript Build Automation With Gulp.js (Pluralsight course by <a href="http://twitter.com/john_papa">John Papa</a>) <br>
   http://www.pluralsight.com/courses/javascript-build-automation-gulpjs <br>
-  by <a href="http://twitter.com/john_papa">John Papa</a>
+  
 
 ## Immutable JS
 
-- Learn how to use Immutable.js (Egghead lesson) <br>
+- Learn how to use Immutable.js (Egghead lesson by <a href="https://twitter.com/jslauthor">J.S. Leonard</a>) <br>
   https://egghead.io/series/learn-how-to-use-immutable-js <br>
-  by <a href="https://twitter.com/jslauthor">J.S. Leonard</a>
 
 ## React
 
@@ -83,22 +81,23 @@ Jump to
 
 ## Redux
 
-- React Hot Reloading and intro to Redux - Live React: Hot Reloading with Time Travel at react-europe 2015 <br>
+- React Hot Reloading and intro to Redux - Live React: Hot Reloading with Time Travel at react-europe 2015 (Youtube video by <a href="https://twitter.com/dan_abramov">Dan Abramov</a>)<br>
   https://www.youtube.com/watch?v=xsSnOQynTHs 
 
-- A cartoon guide to Redux (Medium article) <br>
+- A cartoon guide to Redux (Medium article, by <a href="https://twitter.com/linclark">Lin Clark</a>) <br>
   https://code-cartoons.com/a-cartoon-intro-to-redux-3afb775501a6 <br>
-  by <a href="https://twitter.com/linclark">Lin Clark</a> 
 
 - Redux Docs <br>
   http://rackt.org/redux/index.html
 
-- Getting Started with Redux course (Egghead lesson) <br>
+- Getting Started with Redux course (Egghead lesson by <a href="https://twitter.com/dan_abramov">Dan Abramov</a> ) <br>
   https://egghead.io/series/getting-started-with-redux <br>
-  by <a href="https://twitter.com/dan_abramov">Dan Abramov</a> 
 
 - redux-tutorial <br>
   https://github.com/happypoulp/redux-tutorial
+
+- Smart and Dumb Components (Medium article by <a href="https://twitter.com/dan_abramov">Dan Abramov</a> )<br>
+  https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0
 
 ## Reactive
 
@@ -115,7 +114,6 @@ Jump to
 
 ## Webpack
 
-- Webpack Fundamentals (Pluralsight course) <br> 
+- Webpack Fundamentals (Pluralsight course by <a href="http://twitter.com/josepheames">Joe Eames</a>) <br> 
   http://www.pluralsight.com/courses/webpack-fundamentals <br>
-  by <a href="http://twitter.com/josepheames">Joe Eames</a>
 
