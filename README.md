@@ -1,5 +1,34 @@
 # Web Learning Paths
 
+Jump to
+
+#### Language
+ 
+  <a href="#es6">ES6</a> <br>
+  <a href="#typescript">Typescript</a>
+
+#### V/MVC/MVW
+
+  <a href="#angular-2">Angular 2</a> <br>
+  <a href="#react">React</a>
+
+#### State
+
+  <a href="#redux">Redux</a>
+  
+#### Build tools
+
+  <a href="#gulp">Gulp</a> <br>
+  <a href="#webpack">Webpack</a>
+  
+#### Data
+ 
+  <a href="#immutable-js">Immutable JS</a>
+  
+#### Async
+
+  <a href="#reactive">Reactive</a>
+  
 ## Angular 2
 
 - 5 min quickstart (Official)
@@ -47,14 +76,20 @@
 
 ## Redux
 
-- Redux Docs
+- React Hot Reloading and intro to Redux - Live React: Hot Reloading with Time Travel at react-europe 2015 <br>
+  https://www.youtube.com/watch?v=xsSnOQynTHs 
+
+- Redux Docs <br>
   http://rackt.org/redux/index.html
 
 - Getting Started with Redux course (Egghead lesson) <br>
   https://egghead.io/series/getting-started-with-redux <br>
   by <a href="https://twitter.com/dan_abramov">Dan Abramov</a> 
 
-## RxJS
+- redux-tutorial
+  https://github.com/happypoulp/redux-tutorial
+
+## Reactive
 
 - RxJS In-Depth – Ben Lesh <br>
   https://www.youtube.com/watch?v=KOOT7BArVHQ
