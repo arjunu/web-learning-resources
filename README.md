@@ -14,6 +14,7 @@ Jump to
 
 #### State
 
+  <a href="#flux">Flux</a>
   <a href="#redux">Redux</a>
   
 #### Build tools
@@ -51,6 +52,12 @@ Jump to
   http://kangax.github.io/compat-table/es6/ <br>
   by <a href="https://twitter.com/kangax">@kangax</a>
 
+## Flux
+ 
+- A cartoon guide to Flux (Medium article) <br>
+  https://code-cartoons.com/a-cartoon-guide-to-flux-6157355ab207 <br>
+  by <a href="https://twitter.com/linclark">Lin Clark</a> 
+
 ## Gulp
 
 - JavaScript Build Automation With Gulp.js (Pluralsight course) <br>
@@ -79,6 +86,10 @@ Jump to
 - React Hot Reloading and intro to Redux - Live React: Hot Reloading with Time Travel at react-europe 2015 <br>
   https://www.youtube.com/watch?v=xsSnOQynTHs 
 
+- A cartoon guide to Redux (Medium article) <br>
+  https://code-cartoons.com/a-cartoon-intro-to-redux-3afb775501a6 <br>
+  by <a href="https://twitter.com/linclark">Lin Clark</a> 
+
 - Redux Docs <br>
   http://rackt.org/redux/index.html
 
@@ -86,7 +97,7 @@ Jump to
   https://egghead.io/series/getting-started-with-redux <br>
   by <a href="https://twitter.com/dan_abramov">Dan Abramov</a> 
 
-- redux-tutorial
+- redux-tutorial <br>
   https://github.com/happypoulp/redux-tutorial
 
 ## Reactive
