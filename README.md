@@ -6,6 +6,7 @@ Jump to
  
   <a href="#es6">ES6</a> <br>
   <a href="#typescript">Typescript</a>
+  <a href="#html">HTML</a>
 
 #### V/MVC/MVW
 
@@ -64,6 +65,11 @@ Jump to
 
 - JavaScript Build Automation With Gulp.js (Pluralsight course by <a href="http://twitter.com/john_papa">John Papa</a>) <br>
   http://www.pluralsight.com/courses/javascript-build-automation-gulpjs <br>
+
+## HTML
+
+- Dive Into HTML5 <br>
+  http://diveintohtml5.info/index.html
   
 
 ## Immutable JS
