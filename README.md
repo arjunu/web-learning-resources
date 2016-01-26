@@ -55,6 +55,9 @@ Jump to
  
 - A cartoon guide to Flux (Medium article, by <a href="https://twitter.com/linclark">Lin Clark</a> ) <br>
   https://code-cartoons.com/a-cartoon-guide-to-flux-6157355ab207 <br>
+
+- The Case for Flux (Medium article, by <a href="https://twitter.com/dan_abramov">Dan Abramov</a>) <br>
+  https://medium.com/swlh/the-case-for-flux-379b7d1982c6
   
 
 ## Gulp
