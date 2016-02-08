@@ -33,7 +33,7 @@ Jump to
 
 #### Performance
 
-  <a href="rendering">Browser Rendering Optimization</a>
+  <a href="#rendering">Browser Rendering Optimization</a>
 #### Browser
 
   <a href="#chrome-devtools">Chrome DevTools</a>
