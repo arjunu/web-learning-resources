@@ -30,6 +30,13 @@ Jump to
 #### Async
 
   <a href="#reactive">Reactive</a>
+
+#### Performance
+
+  <a href="rendering">Browser Rendering Optimization</a>
+#### Browser
+
+  <a href="#chrome-devtools">Chrome DevTools</a>
   
 ## Angular 2
 
@@ -41,6 +48,11 @@ Jump to
 
 - Tutorial: Tour of Heroes (Official) <br>
   https://angular.io/docs/ts/latest/tutorial/
+
+## Chrome DevTools
+
+- Google Developers <br>
+  https://developers.google.com/web/tools/chrome-devtools/?hl=en
 
 ## ES6
 
@@ -112,6 +124,11 @@ Jump to
 
 - RxJS In-Depth – Ben Lesh <br>
   https://www.youtube.com/watch?v=KOOT7BArVHQ
+
+## Rendering
+
+-  Browser Rendering Optimization: Building 60 FPS Web Apps <br>
+   https://www.udacity.com/courses/ud860
  
 ## Typescript
 
