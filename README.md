@@ -34,9 +34,14 @@ Jump to
 #### Performance
 
   <a href="#rendering">Browser Rendering Optimization</a>
+  
 #### Browser
 
   <a href="#chrome-devtools">Chrome DevTools</a>
+  
+#### Testing
+
+  <a href="testing">Wallaby JS</a>
   
 ## Angular 2
 
@@ -137,6 +142,11 @@ Jump to
  
 - REPL <br>
   http://www.typescriptlang.org/Playground
+
+## Wallaby JS
+
+- Seamless JavaScript Testing with Wallaby.js (Pluralsight course by <a href="https://twitter.com/g0t4">Wes Higbee</a>) <br>
+  https://app.pluralsight.com/library/courses/javascript-testing-wallaby-js/table-of-contents
 
 ## Webpack
 
