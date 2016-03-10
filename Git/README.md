@@ -67,6 +67,9 @@ Dangerous commands are marked with :warning:
 - Delete branch <br>
 **`$ git branch -d <branch-name>`** <br>
 
+- Delete unmerged branch <br>
+**`$ git branch -D <branch-name>`** :warning: <br> 
+
 ## Remotes
 
 - Show all remotes <br>
@@ -125,8 +128,22 @@ Dangerous commands are marked with :warning:
  
 - **Origin:** Default name Git gives to the server you cloned from
 
+### Branches
+
+- **master:** name given to default branch
+ 
+- **HEAD:** pointer to current branch
+
+- **fast-forward:** is a type of merge. When you try to merge one commit with a commit that can be reached by following the first commit’s history, Git simplifies things by moving the pointer forward because there is no divergent work to merge together
+
+- **Remote tracking branches:** are references to the state of remote branches. They act as bookmarks to remind you where the branches in your remote repositories were the last time you connected to them.
+
 ## Sources
 - Github Git cheatsheet https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf
 - Git Scm https://git-scm.com
 
+# Articles
+
+- fast-forward <br>
+  http://ariya.ofilabs.com/2013/09/fast-forward-git-merge.html
 
