@@ -6,10 +6,10 @@ Dangerous commands are marked with :warning:
 ## Configure
 
 - Set username <br>
-**`$ git config --global user.name "[name]"`**
+**`$ git config --global user.name "<name>"`**
 
 - Set email <br>
-**`$ git config --global user.email "[email address]"`**
+**`$ git config --global user.email "<email address>"`**
 
 ## Create/Clone
 
@@ -39,6 +39,17 @@ Dangerous commands are marked with :warning:
 - Commit <br>
 **`$ git commit -m "<message>"`** <br>
 
+## Update
+
+- Fetch <br>
+**`$ git fetch`** <br>
+
+- Pull (fetch & merge) <br>
+**`$ git pull`** <br>
+
+- Push <br>
+**`$ git push <remote-name> <branch-name>`** <br>
+
 ## Branches
 
 - List all existing branches <br>
@@ -55,6 +66,20 @@ Dangerous commands are marked with :warning:
 
 - Delete branch <br>
 **`$ git branch -d <branch-name>`** <br>
+
+## Remotes
+
+- Show all remotes <br>
+**`$ git remote -v`** <br>
+
+- Add remote <br>
+**`$ git remote add <shortname> <url>`** <br>
+
+- Show remote information <br>
+**`$ git remote show <remote-name>`** <br>
+
+- Rename remote shortname <br>
+**`$ git remote rename <old-shortname> <new-shortname>`** <br>
 
 ## Removing Files
 
@@ -82,6 +107,8 @@ Dangerous commands are marked with :warning:
 
 ## Glossary
 
+#### Files
+
 - **Commited:** data is safely stored in your local database
  
 - **Modified:** you have changed the file but have not committed it to your database yet
@@ -91,8 +118,14 @@ Dangerous commands are marked with :warning:
 - **Tracked:** are files that were in the last snapshot; they can be unmodified, modified, or staged 
  
 - **Untracked:** files are everything else – any files in your working directory that were not in your last snapshot and are not in your staging area
+ 
+#### Repository
 
-### Sources
+- **Remote:** Remote repositories are versions of your project that are hosted on the Internet or network somewhere
+ 
+- **Origin:** Default name Git gives to the server you cloned from
+
+## Sources
 - Github Git cheatsheet https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf
 - Git Scm https://git-scm.com
 
