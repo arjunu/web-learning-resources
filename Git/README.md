@@ -1,6 +1,15 @@
 # Git Cheatsheet
 
-? - indicates optional arguments
+? - indicates optional arguments <br>
+Dangerous commands are marked with :warning:
+
+## Configure
+
+- Set username <br>
+**`$ git config --global user.name "[name]"`**
+
+- Set email <br>
+**`$ git config --global user.email "[email address]"`**
 
 ## Create/Clone
 
@@ -47,7 +56,44 @@
 - Delete branch <br>
 **`$ git branch -d <branch-name>`** <br>
 
+## Removing Files
 
+- Delete file from working directory and stage the deletion <br>
+**`$ git rm <file>`** <br>
 
+- Remove file from version control but preserve it locally <br>
+**`$ git rm --cached <file>`** <br>
+
+## History
+
+- Show all commits in reverse chronological order <br>
+**`$ git log`** <br>
+
+## Undoing
+
+- Change last commit <br>
+**`$ git commit --amend`** <br>
+
+- Unstage a file <br>
+**`$ git reset HEAD <file>`** <br>
+
+- Unmodify a file <br>
+**`$ git checkout -- <file>`** :warning:<br>
+
+## Glossary
+
+- **Commited:** data is safely stored in your local database
+ 
+- **Modified:** you have changed the file but have not committed it to your database yet
+ 
+- **Staged:** you have marked a modified file in its current version to go into your next commit snapshot
+
+- **Tracked:** are files that were in the last snapshot; they can be unmodified, modified, or staged 
+ 
+- **Untracked:** files are everything else – any files in your working directory that were not in your last snapshot and are not in your staging area
+
+### Sources
+- Github Git cheatsheet https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf
+- Git Scm https://git-scm.com
 
 
