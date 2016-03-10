@@ -1,8 +1,17 @@
-##### - Remove directory from remote repository after adding them to .gitignore
-http://stackoverflow.com/a/7927283/2251156
+# Git Cheatsheet
 
-##### - Undo all uncommitted changes
-http://stackoverflow.com/questions/14075581/git-undo-all-uncommitted-changes
+? - indicates optional arguments
 
-##### - Delete a Git branch both locally and remotely
-http://stackoverflow.com/questions/2003505/delete-a-git-branch-both-locally-and-remotely
+## Create/Clone
+
+- Create new local repo<br>
+`$ git init <?project-name>`
+
+- Clone existing <br>
+`$ git clone <url>` 
+
+- Create from existing code <br>
+`$ git init` <br>
+`//add files & commit` <br>
+`$ git remote add origin <remote>` <br>
+`$ git push origin master` <br>
