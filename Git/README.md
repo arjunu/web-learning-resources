@@ -30,3 +30,24 @@
 - Commit <br>
 **`$ git commit -m "<message>"`** <br>
 
+## Branches
+
+- List all existing branches <br>
+**`$ git branch -av`** <br>
+
+- Create new branch <br>
+**`$ git branch <new-branch-name>`** <br>
+
+- Switch to branch <br>
+**`$ git checkout <branch-name>`** <br>
+
+- Merge specified branch into current branch <br>
+**`$ git merge <branch-name>`** <br>
+
+- Delete branch <br>
+**`$ git branch -d <branch-name>`** <br>
+
+
+
+
+
