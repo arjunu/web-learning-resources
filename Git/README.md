@@ -130,13 +130,15 @@ Dangerous commands are marked with :warning:
 
 ### Branches
 
-- **master:** name given to default branch
+- **master:** name given to default branch.
  
-- **HEAD:** pointer to current branch
+- **HEAD:** pointer to current branch.
 
-- **fast-forward:** is a type of merge. When you try to merge one commit with a commit that can be reached by following the first commit’s history, Git simplifies things by moving the pointer forward because there is no divergent work to merge together
+- **fast-forward:** is a type of merge. When you try to merge one commit with a commit that can be reached by following the first commit’s history, Git simplifies things by moving the pointer forward because there is no divergent work to merge together.
 
 - **Remote tracking branches:** are references to the state of remote branches. They act as bookmarks to remind you where the branches in your remote repositories were the last time you connected to them.
+
+- **Rebase:** another type of integrating changes (the other one being `merge`) from one branch into another by taking all the changes that were committed on one branch and replaying them on another.
 
 ## Sources
 - Github Git cheatsheet https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf
