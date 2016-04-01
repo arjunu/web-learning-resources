@@ -102,6 +102,9 @@ Dangerous commands are marked with :warning:
 - Change last commit <br>
 **`$ git commit --amend`** <br>
 
+- Undo last local commit [1]<br>
+**`$git reset --soft HEAD~`** <br>
+
 - Unstage a file <br>
 **`$ git reset HEAD <file>`** <br>
 
@@ -143,6 +146,7 @@ Dangerous commands are marked with :warning:
 ## Sources
 - Github Git cheatsheet https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf
 - Git Scm https://git-scm.com
+- [1]: http://stackoverflow.com/a/927386/2251156
 
 # Articles
 
