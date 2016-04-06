@@ -103,7 +103,11 @@ Dangerous commands are marked with :warning:
 **`$ git commit --amend`** <br>
 
 - Undo last local commit [1]<br>
-**`$git reset --soft HEAD~`** <br>
+**`$ git reset --soft HEAD~`** //soft -- keep your changes<br>
+**`$ git reset --hard HEAD^`** //hard -- discard changes<br>
+
+- Undo last published commit [1]<br>
+**`$ git revert HEAD`** <br>
 
 - Unstage a file <br>
 **`$ git reset HEAD <file>`** <br>
