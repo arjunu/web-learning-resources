@@ -1,4 +1,4 @@
-# Web Learning Paths
+# Web Learning Resources
 
 Jump to
 
@@ -37,6 +37,7 @@ Jump to
   
 #### Browser
 
+  <a href="#console">Console</a> <br>
   <a href="#chrome-devtools">Chrome DevTools</a>
   
 #### Testing
@@ -53,6 +54,11 @@ Jump to
 
 - Tutorial: Tour of Heroes (Official) <br>
   https://angular.io/docs/ts/latest/tutorial/
+
+## Console
+
+- Advanced Logging with the JavaScript Console (Egghead lesson by <a href="https://twitter.com/mykolav">mykola bilokonsky</a> ) <br>
+  https://egghead.io/series/js-console-for-power-users
 
 ## Chrome DevTools
 
