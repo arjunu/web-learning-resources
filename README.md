@@ -5,7 +5,7 @@ Jump to
 #### Language
  
   <a href="#es6">ES6</a> <br>
-  <a href="#typescript">Typescript</a>
+  <a href="#typescript">Typescript</a><br>
   <a href="#html">HTML</a>
 
 #### V/MVC/MVW
@@ -20,6 +20,7 @@ Jump to
   
 #### Build tools
 
+  <a href="#babel">Babel</a> <br>
   <a href="#gulp">Gulp</a> <br>
   <a href="#webpack">Webpack</a>
   
@@ -54,6 +55,11 @@ Jump to
 
 - Tutorial: Tour of Heroes (Official) <br>
   https://angular.io/docs/ts/latest/tutorial/
+
+## Babel
+
+- Babel Handbook <br>
+  https://github.com/thejameskyle/babel-handbook/blob/master/translations/en/user-handbook.md
 
 ## Console
 
