@@ -59,7 +59,7 @@ Jump to
 ## Babel
 
 - Babel Handbook <br>
-  https://github.com/thejameskyle/babel-handbook/blob/master/translations/en/user-handbook.md
+  https://github.com/thejameskyle/babel-handbook/blob/master/translations/en/README.md
 
 ## Console
 
